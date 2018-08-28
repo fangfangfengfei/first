@@ -1,1 +1,2 @@
-我擦，又新建了一个文件
+<<<<<<< HEAD
+this is a final one 
